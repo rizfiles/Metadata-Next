@@ -1,0 +1,50 @@
+#Kategori adobestock:
+Animals
+Buildings and Architecture
+Business
+Drinks
+The Environment
+States of Mind
+Food
+Graphic Resources
+Hobbies and Leisure
+Industry
+Landscapes
+Lifestyle
+People
+Plants and Flowers
+Culture and Religion
+Science
+Social Issues
+Sports
+Technology
+Transport
+Travel
+
+#kategori shutterstock
+Abstract
+Animals/Wildlife
+Arts
+Backgrounds/Textures
+Beauty/Fashion
+Buildings/Landmarks
+Business/Finance
+Celebrities
+Education
+Food and drink
+Healthcare/Medical
+Holidays
+Industrial
+Interiors
+Miscellanous
+Nature
+Objects
+Parks/Outdoor
+People
+Religion
+Science
+Signs/Symbols
+Sports/Recreation
+Technology
+Transportation
+Vintage
