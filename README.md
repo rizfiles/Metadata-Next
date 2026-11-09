@@ -16,25 +16,9 @@ It runs entirely in your browser. There is no backend: you bring your own **Gemi
 - Real-time **log panel** (copyable) that records everything: uploads, keys, requests, errors and exports
 - Light and dark mode, responsive layout for desktop and mobile
 
-## Getting started
-
-1. Get a free API key from [Google AI Studio](https://aistudio.google.com/).
-2. Open `index.html` in a browser, or host the repository with GitHub Pages.
-3. Click **API Key**, paste a key and press **Enter** (or **Add**). Choose a model, then click **Done**.
-4. Click **Upload** and select your images.
-5. Click **Generate**. Review the results with **Edit**.
-6. Click **Download** and choose **Adobe Stock** or **Shutterstock**.
-
-Keep `index.html`, `style.css` and `app.js` in the same folder.
-
 ## Using multiple API keys
 
 Gemini free-tier limits are applied **per Google Cloud project**, not per key. Several keys only help if they belong to **different projects** (for example, keys from different Google accounts). Check Google's terms before creating many projects to work around quotas.
-
-## Uploading the CSV files
-
-- **Adobe Stock:** columns are `Filename, Title, Keywords, Category, Releases`. Filenames can be at most 30 characters. The CSV has no content-type column, so set Photo or Illustration in the Contributor Portal.
-- **Shutterstock:** columns are `Filename, Description, Keywords, Categories, Illustration, Mature Content, Editorial`. **Upload your images first, then the CSV**, otherwise Shutterstock reports missing assets.
 
 ## Privacy
 
